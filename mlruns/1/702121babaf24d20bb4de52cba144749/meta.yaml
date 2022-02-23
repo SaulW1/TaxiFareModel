@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/saulwegrzyn/code/SaulW1/TaxiFareModel/mlruns/1/702121babaf24d20bb4de52cba144749/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 702121babaf24d20bb4de52cba144749
+run_uuid: 702121babaf24d20bb4de52cba144749
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1645532401712
+status: 1
+tags: []
+user_id: unknown
